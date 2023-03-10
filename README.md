@@ -22,7 +22,6 @@ roles we can make the experience pretty quick and easy.
 
 # Org owners
 We currently have one active owner in the org:
-
 - Lluís Bosch (lbosch@icra.cat)
 
 # Repos
