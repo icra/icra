@@ -78,7 +78,10 @@ make changes on a particular repository or group of repositories.
 
 ## Organizationally Related Sites
 
-itlab.icra.cat
+- https://itlab.icra.cat
+- https://dataverse.csuc.cat/dataverse/ICRA-CERCA
+- https://cerca.cat/centres-cerca/icra/
+  - https://ginys.cerca.cat/institute/icra-institut-catala-de-recerca-de-laigua/
 
 ## Other ICRA orgs on github.com or gitlab.com or bitbucket
 Although ICRA staff are highly encouraged to release open source software on
