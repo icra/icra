@@ -116,4 +116,3 @@ as they are only open to US persons or are tied to a patent.
 In addition to the emails listed above, you may leave an issue on this
 repository. We will use those questions & answers to eventually make a FAQ
 section on this page.
-# icra
