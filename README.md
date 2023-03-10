@@ -48,7 +48,7 @@ without doing a pull request.
 If you would like to add a ICRA staff member who is a member of the ICRA org as
 a collaborator on a single repository, we still suggest you contact the ICRA
 org owners mentioned above about setting up a TEAM for that single repository
-instead of adding people one by one. Teams result in less requestes (and
+instead of adding people one by one. Teams result in less requests (and
 therefore waiting) on ICRA org owners for actions. We are sorry you don't have
 normal full ownership rights. It is because everyone with write access needs to
 be approved ICRA user. If you had normal repository owner right, you could add
