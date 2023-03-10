@@ -94,7 +94,7 @@ GitLab repositories not under github.com/icra.
 ## Discovering useful ICRA Open-Source Code via metadata catalogs
 There are several ICRA open-source code repositories and as previously
 noted, not everything is on github.com/icra. To improve your chance of finding
-something useful to you, we suggest you use itlab.icra.cat. This sites host
+something useful to you, we suggest you use itlab.icra.cat. This site hosts
 metadata descriptions for nearly all of the officially open-sourced code.
 
 ICRA github only shows open-source software. For government-source and patented
