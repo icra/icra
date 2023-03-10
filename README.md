@@ -20,10 +20,7 @@ full admin rights you might be used to on your personal github.com accounts.
 However, by using teams, team owners, collaborators, and outside collaborators
 roles we can make the experience pretty quick and easy.
 
-# Org Members
-Only org members have the ability to create new repositories and bring new
-users in as members of the ICRA github org.
-
+# Org owners
 We currently have two active owners in the org:
 
 - Lluís Bosch (lbosch@icra.cat)
@@ -69,6 +66,8 @@ this!
 Please reach out to us if you have any questions.
 
 # Common Requests
+Contact our org owners:
+
 - If you need to be added to the ICRA org on github.com
 
 - If you need to create a new team for managing who has access to
@@ -77,6 +76,7 @@ make changes on a particular repository or group of repositories.
 - If you need to add a new member to an already established team.
 
 # Related Sites
+
 ## Organizationally Related Sites
 
 itlab.icra.cat
@@ -92,7 +92,7 @@ through a ICRA grant.
 To encourage discoverability, please use the #ICRA topic tag on any GitHub or
 GitLab repositories not under github.com/icra.
 
-Discovering useful ICRA Open-Source Code via metadata catalogs
+## Discovering useful ICRA Open-Source Code via metadata catalogs
 There are several ICRA open-source code repositories and as previously
 noted, not everything is on github.com/icra. To improve your chance of finding
 something useful to you, we suggest you use itlab.icra.cat. This sites host
@@ -110,7 +110,7 @@ software categories, it is a good place to visit.
 
 It also includes some older software products that are only available as
 downloadable zip files as well as software that must be requested individually
-as they are only open to US persons or are tied to a patent.
+as they might be tied to a patent.
 
 # Questions?
 In addition to the emails listed above, you may leave an issue on this
