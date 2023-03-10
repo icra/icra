@@ -21,10 +21,9 @@ However, by using teams, team owners, collaborators, and outside collaborators
 roles we can make the experience pretty quick and easy.
 
 # Org owners
-We currently have two active owners in the org:
+We currently have one active owner in the org:
 
 - Lluís Bosch (lbosch@icra.cat)
-- Adrià Riu (ariu@icra.cat)
 
 # Repos
 We do not give out admin rights on any ICRA Github repos for reasons stated
