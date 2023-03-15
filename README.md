@@ -1,3 +1,15 @@
+# ICRA
+The Catalan Institute for Water Research (ICRA-CERCA) is an international
+reference center that focuses research of the integral water cycle, hydraulic
+resources, water quality (in the broadest sense of the term: chemical,
+microbiological, ecological, etc.) and treatment and evaluation technologies,
+and to transfer this knowledge to society and business network.
+
+The ICRA-CERCA was created on 26 October 2006 by the Government of Catalonia
+within the framework of the Research Centres Programme of Catalonia (CERCA),
+and it is a Research Institute attached to the University of Girona (UdG),
+according to the Decree of the Government of Catalonia of 6 July 2018.
+
 # Purpose
 This GitHub organization is intended to publicly host source code for
 applications and tools developed within the research activity of ICRA.
